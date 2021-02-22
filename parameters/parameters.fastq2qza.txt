@@ -1,0 +1,2 @@
+manifest	Samples.manifest
+format	PairedEndFastqManifestPhred33V2
