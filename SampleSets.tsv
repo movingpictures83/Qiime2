@@ -1,0 +1,8 @@
+sample-id	forward-absolute-filepath	reverse-absolute-filepath	Sampleset
+
+Sample1	$HOME/PluMA/pipelines/Qiime2/FASTQ/Sample1_R1.fastq.gz	$HOME/PluMA/pipelines/Qiime2/FASTQ/Sample1_R2.fastq.gz	Set1
+
+Sample2	$HOME/PluMA/pipelines/Qiime2/FASTQ/Sample2_R1.fastq.gz	$HOME/PluMA/pipelines/Qiime2/FASTQ/Sample2_R2.fastq.gz	Set2
+
+Sample3	$HOME/PluMA/pipelines/Qiime2/FASTQ/Sample3_R1.fastq.gz	$HOME/PluMA/pipelines/Qiime2/FASTQ/Sample3_R2.fastq.gz	Set3
+
